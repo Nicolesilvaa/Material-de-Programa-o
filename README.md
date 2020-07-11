@@ -1,3 +1,3 @@
 # Material-de-Programa-o
 Livro + Exercícios
--    [ ] treinar Diariamente o que aprendi no curso 
+10/07/2020
