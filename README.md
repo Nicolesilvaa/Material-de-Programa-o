@@ -23,8 +23,6 @@
 
  - ![Nicole Silva ](https://github.com/Nicolesilvaa/)
   
- :octocat: _Contato_ :  
-- Email: Nicolesilva8144@gmail.com
   
  
  
