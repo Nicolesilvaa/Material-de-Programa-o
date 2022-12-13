@@ -3,7 +3,7 @@
 
 ## Neste repositório contém:
   
-      -Apostilas e livros para auxiliar nos estudos de programação.
+      - Apostilas e livros para auxiliar nos estudos de programação.
 
 #### _Status: Constante atualização_ :heavy_check_mark:
 
